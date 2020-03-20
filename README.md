@@ -1,2 +1,2 @@
 # MAOKG
-# Every lab will be in specific branch
+# Every lab will be in a specific branch
