@@ -9,4 +9,4 @@
 
 ## Screenshots
 
-![](https://user-images.githubusercontent.com/31898055/77194044-dd3d6780-6ae7-11ea-9c33-f1a1fd371b73.png)
+![](https://user-images.githubusercontent.com/31898055/77249358-1b05d180-6c49-11ea-81b2-8341545a6ba1.png)
