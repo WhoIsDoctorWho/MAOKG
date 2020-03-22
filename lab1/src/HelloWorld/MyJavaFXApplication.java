@@ -32,7 +32,7 @@ public class MyJavaFXApplication extends Application {
     }
     public void createScene(Stage primaryStage) {
         Scene scene = new Scene(root, 300, 250);
-        scene.setFill(Color.OLIVE);
+        scene.setFill(Color.DARKOLIVEGREEN);
         primaryStage.setScene(scene);
     }
     public void drawCircle(int x, int y, int radius, Color color) {
