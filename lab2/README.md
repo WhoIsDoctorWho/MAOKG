@@ -14,4 +14,5 @@
 
 ## Notes
 Animation of scaling - Clock
+
 Animation of turning - clock's hands
