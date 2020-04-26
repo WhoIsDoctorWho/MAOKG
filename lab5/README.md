@@ -9,5 +9,5 @@
 
 ## Screenshots
 
-![](result.png)
+![](result.gif)
 
